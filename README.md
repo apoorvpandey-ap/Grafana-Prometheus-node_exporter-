@@ -3,3 +3,5 @@
 - [x] [Install Node-exporter](https://github.com/apoorvpandey-ap/Grafana-Prometheus-node_exporter-/issues/1#issuecomment-1272803128)
 - [x] [Open Grafana and configure with Prometheus](https://github.com/apoorvpandey-ap/Grafana-Prometheus-node_exporter-/issues/1#issuecomment-1272804478)
 - [x] [Configuration Prometheus.yml file](https://github.com/apoorvpandey-ap/Grafana-Prometheus-node_exporter-/issues/1#issuecomment-1272814635) 
+
+### video [link](https://youtu.be/MTRoZRyIN3o)
